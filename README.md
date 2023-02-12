@@ -36,4 +36,4 @@ Dockerfile을 이미지로 만들고 실행해보았다.
 
 ![2](https://user-images.githubusercontent.com/97159967/218309497-d7fea11d-5911-4bc4-bc9c-97860615ebc2.png)
 
-[localhost:8000/everytime.html로](http://localhost:8000/everytime.html로) 접속시 실행되는 것을 볼 수 있었다.
+[localhost:8000/everytime.html](http://localhost:8000/everytime.html)로 접속시 실행되는 것을 볼 수 있었다.
